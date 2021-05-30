@@ -24,3 +24,12 @@ h3 {
     text-transform: none;
     letter-spacing: 0.01em;
 }
+
+#banner
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	margin-bottom: 20px;
+}
